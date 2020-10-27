@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+
+#Img {
+    width: 175px margin-bottom:50px;
+    border-radius: 50%;
+}
+
+h1 {
+    font-family: monospace;
+    color: darksalmon;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: monospace;
+    color: darkorange;
+    font-size: 40px;
+}
+
+describe {
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: blue;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100px;
+    height: 100px;
+    font-family: inherit;
+    font-size: 30px;
+}
